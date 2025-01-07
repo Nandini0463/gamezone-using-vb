@@ -1,0 +1,34 @@
+D:\tybca47\project\Game Zone Management\Game Zone Management\bin\Debug\Game Zone Management.exe
+D:\tybca47\project\Game Zone Management\Game Zone Management\bin\Debug\Game Zone Management.pdb
+D:\tybca47\project\Game Zone Management\Game Zone Management\bin\Debug\Game Zone Management.xml
+D:\tybca47\project\Game Zone Management\Game Zone Management\obj\x86\Debug\Game_Zone_Management.Registration.resources
+D:\tybca47\project\Game Zone Management\Game Zone Management\obj\x86\Debug\Game_Zone_Management.Form1.resources
+D:\tybca47\project\Game Zone Management\Game Zone Management\obj\x86\Debug\Game_Zone_Management.Resources.resources
+D:\tybca47\project\Game Zone Management\Game Zone Management\obj\x86\Debug\Game Zone Management.vbproj.GenerateResource.Cache
+D:\tybca47\project\Game Zone Management\Game Zone Management\obj\x86\Debug\Game Zone Management.exe
+D:\tybca47\project\Game Zone Management\Game Zone Management\obj\x86\Debug\Game Zone Management.xml
+D:\tybca47\project\Game Zone Management\Game Zone Management\obj\x86\Debug\Game Zone Management.pdb
+Z:\project\Game Zone Management\Game Zone Management\obj\x86\Debug\Game Zone Management.exe
+Z:\project\Game Zone Management\Game Zone Management\obj\x86\Debug\Game Zone Management.xml
+Z:\project\Game Zone Management\Game Zone Management\obj\x86\Debug\Game Zone Management.pdb
+Z:\project\Game Zone Management\Game Zone Management\obj\x86\Debug\Game_Zone_Management.Registration.resources
+Z:\project\Game Zone Management\Game Zone Management\obj\x86\Debug\Game_Zone_Management.Resources.resources
+Z:\project\Game Zone Management\Game Zone Management\obj\x86\Debug\Game Zone Management.vbproj.GenerateResource.Cache
+Z:\project\Game Zone Management\Game Zone Management\obj\x86\Debug\Game_Zone_Management.Games.resources
+Z:\project\Game Zone Management\Game Zone Management\bin\Debug\Game Zone Management.exe
+Z:\project\Game Zone Management\Game Zone Management\bin\Debug\Game Zone Management.pdb
+Z:\project\Game Zone Management\Game Zone Management\bin\Debug\Game Zone Management.xml
+Z:\project\Game Zone Management\Game Zone Management\obj\x86\Debug\Game_Zone_Management.Package.resources
+D:\project\Game Zone Management\Game Zone Management\obj\x86\Debug\Game Zone Management.exe
+D:\project\Game Zone Management\Game Zone Management\obj\x86\Debug\Game Zone Management.xml
+D:\project\Game Zone Management\Game Zone Management\obj\x86\Debug\Game Zone Management.pdb
+D:\project\Game Zone Management\Game Zone Management\obj\x86\Debug\Game_Zone_Management.Package.resources
+D:\project\Game Zone Management\Game Zone Management\obj\x86\Debug\Game_Zone_Management.Registration.resources
+D:\project\Game Zone Management\Game Zone Management\obj\x86\Debug\Game_Zone_Management.Games.resources
+D:\project\Game Zone Management\Game Zone Management\obj\x86\Debug\Game_Zone_Management.Resources.resources
+D:\project\Game Zone Management\Game Zone Management\obj\x86\Debug\Game Zone Management.vbproj.GenerateResource.Cache
+D:\project\Game Zone Management\Game Zone Management\bin\Debug\Game Zone Management.exe
+D:\project\Game Zone Management\Game Zone Management\bin\Debug\Game Zone Management.pdb
+D:\project\Game Zone Management\Game Zone Management\bin\Debug\Game Zone Management.xml
+D:\project\Game Zone Management\Game Zone Management\obj\x86\Debug\Game_Zone_Management.Bill.resources
+D:\project\Game Zone Management\Game Zone Management\obj\x86\Debug\Game_Zone_Management.Login_Form.resources
